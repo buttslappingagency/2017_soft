@@ -30,10 +30,10 @@
         {
             this.components = new System.ComponentModel.Container();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.textName = new System.Windows.Forms.TextBox();
-            this.textPhone = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.textName = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.textPhone = new System.Windows.Forms.TextBox();
             this.text3Letter = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
@@ -66,22 +66,6 @@
             this.tableLayoutPanel1.TabIndex = 0;
             this.tableLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.tableLayoutPanel1_Paint);
             // 
-            // textName
-            // 
-            this.textName.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.textName.Location = new System.Drawing.Point(175, 30);
-            this.textName.Name = "textName";
-            this.textName.Size = new System.Drawing.Size(166, 20);
-            this.textName.TabIndex = 0;
-            // 
-            // textPhone
-            // 
-            this.textPhone.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.textPhone.Location = new System.Drawing.Point(175, 111);
-            this.textPhone.Name = "textPhone";
-            this.textPhone.Size = new System.Drawing.Size(166, 20);
-            this.textPhone.TabIndex = 1;
-            // 
             // label1
             // 
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Right;
@@ -92,6 +76,14 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "Nom :";
             // 
+            // textName
+            // 
+            this.textName.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.textName.Location = new System.Drawing.Point(175, 30);
+            this.textName.Name = "textName";
+            this.textName.Size = new System.Drawing.Size(166, 20);
+            this.textName.TabIndex = 0;
+            // 
             // label2
             // 
             this.label2.Anchor = System.Windows.Forms.AnchorStyles.Right;
@@ -101,6 +93,14 @@
             this.label2.Size = new System.Drawing.Size(79, 13);
             this.label2.TabIndex = 3;
             this.label2.Text = "N° Téléphone :";
+            // 
+            // textPhone
+            // 
+            this.textPhone.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.textPhone.Location = new System.Drawing.Point(175, 111);
+            this.textPhone.Name = "textPhone";
+            this.textPhone.Size = new System.Drawing.Size(166, 20);
+            this.textPhone.TabIndex = 1;
             // 
             // text3Letter
             // 
@@ -143,6 +143,7 @@
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Add";
             this.Text = "Ajouter un contact...";
+            this.Load += new System.EventHandler(this.Add_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();

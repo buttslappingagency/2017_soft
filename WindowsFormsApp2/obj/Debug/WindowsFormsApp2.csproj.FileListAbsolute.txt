@@ -9,3 +9,14 @@ c:\users\burned!\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsF
 c:\users\burned!\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
 c:\users\burned!\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Add.resources
 c:\users\burned!\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Files\name.txt
+C:\Users\Burned!\Documents\2017_soft\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Burned!\Documents\2017_soft\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Burned!\Documents\2017_soft\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Add.resources
+C:\Users\Burned!\Documents\2017_soft\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Burned!\Documents\2017_soft\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Burned!\Documents\2017_soft\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Burned!\Documents\2017_soft\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Burned!\Documents\2017_soft\WindowsFormsApp2\bin\Debug\Files\name.txt
+C:\Users\Burned!\Documents\2017_soft\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Burned!\Documents\2017_soft\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Burned!\Documents\2017_soft\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
